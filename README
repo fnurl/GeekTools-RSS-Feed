@@ -7,7 +7,7 @@ http://www.nvk.me
 Usage: `sh [location/]news1.sh -[number]`
 i.e. sh `~myname/bin/news1.sh -4`
 
-Just download the files, place it somewhere on you home folder and make it executable (chmod) and place the command above on the GeekTools Shell entry. 
+Just download the files, place it somewhere on you home folder and make it executable (chmod) and place the command above on the GeekTools Shell entry.
 
 You can change the feed replacing the URL
 
