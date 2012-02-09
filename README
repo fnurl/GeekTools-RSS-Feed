@@ -1,0 +1,14 @@
+@nvk
+http://www.nvk.me
+=====
+
+*This script allows GeekTools to load RSS feeds from most sites onto your desktop, it cleans the feed out from all HTML tags and gives you parameters for number of latest news you want to display*
+
+Usage: `sh [location/]news1.sh -[number]`
+i.e. sh `~myname/bin/news1.sh -4`
+
+Just download the files, place it somewhere on you home folder and make it executable (chmod) and place the command above on the GeekTools Shell entry. 
+
+You can change the feed replacing the URL
+
+*** Added another file specific for Gizmodo Feed - thx Dave
